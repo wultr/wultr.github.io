@@ -16,5 +16,11 @@ Walter Pezquera</h4></p>
 <p><h1>Introduction</h1>
 &lt;/&gt;</p>
 <body><p>
-
-In this project we look at data regarding open powerlifting tournaments. We will look specifically at tournaments hosted by the Internal Powerlifting Federation (IPF) as they are one of the largest organizations resposible for hosting quality, high-standard competitions internationally. Athletes compete by displaying their strength with three compound movements: squat, bench press, and deadlift. 
+Powerlifting is a strength-based sport where athletes compete by performing three compound movements: squat, bench press, and deadlift. Powerlifting tournaments are hosted at different levels (locally, state, regionally, nationally, and internationally) and split into different divisions based on the athletes age, sex, and weight.
+<p>
+In this project we look at data regarding open powerlifting tournaments. We will look specifically at tournaments hosted by the Internal Powerlifting Federation (IPF) as they are one of the largest organizations resposible for hosting quality, high-standard competitions internationally. With this data, we can look at current demographics of the sport such as participation amongst age groups, regions and strength levels. We can find trends in the sport's popularity geographically or in different groups. We can also attempt to project the strength of an athlete based off attributes like their height, weight, age, and sex. 
+<p>
+As with any data analysis process, we start by obtaining the data from an open data source. Once the data is obtained, we will filter to look only at data from the IPF or their affilates. This is to ensure data integrity and accuracy of the analysis. We will explore the current standings and spread of tournament data with respect to location, athlete information, or equipment. Afterwards we will attempt to predict athletes strength using regression algorithms. 
+  <hr>
+<center><h1>Getting Started with the Data</h1></center>
+<body><p>
