@@ -8,7 +8,7 @@
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><img src="https://images.unsplash.com/photo-1541600383005-565c949cf777?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" alt="Drawing" style="width: 700px;"/></p>
-<p><center></p>
+<p></p>
 <p><h1 style="font-size:36px;">Analyzing Open Powerlifting Data</h1></p>
 <p><h4>
 Walter Pezquera</h4></p>
