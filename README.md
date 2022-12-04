@@ -7,11 +7,11 @@
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><img src="https://cdn3.dualshockers.com/wp-content/uploads/2015/11/Tom-Clancys-Rainbow-Six-Siege.jpg" alt="Drawing" style="width: 700px;"/></p>
+<p><img src="https://images.unsplash.com/photo-1541600383005-565c949cf777?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" alt="Drawing" style="width: 700px;"/></p>
 <p><center></p>
-<p><h1 style="font-size:36px;">Analyzing Rainbow Six Siege</h1></p>
+<p><h1 style="font-size:36px;">Analyzing Open Powerlifting Data</h1></p>
 <p><h4>
-Charles Liu, Jules Iglesia</h4></p>
+Walter Pezquera</h4></p>
 <p><hr></p>
 <p><h1>Introduction</h1>
 &lt;/center&gt;</p>
