@@ -1,2 +1,2 @@
 # wultr.github.io
-this is what i want
+In this project we look at data regarding open powerlifting tournaments. We will look specifically at tournaments hosted by the Internal Powerlifting Federation (IPF) as they are one of the largest organizations resposible for hosting quality, high-standard competitions internationally. Athletes compete by displaying their strength with three compound movements: squat, bench press, and deadlift. 
