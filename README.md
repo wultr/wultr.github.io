@@ -21,7 +21,7 @@ In this project we look at data for powerlifting tournaments. We will look speci
 <p>
 As with any data analysis process, we start by obtaining the data from an open data source. Once the data is obtained, we will filter to look only at data from the IPF or their affilates. This is to ensure data integrity and accuracy of the analysis. We will explore the current standings and spread of tournament data with respect to location, athlete information, or equipment. Afterwards we will attempt to predict athletes strength using regression algorithms. 
   <hr>
-<center><h1>Getting Started with the Data</h1></center>
+<center><h1>Data Collection/h1></center>
 <body><p>
 We use Python3 and libraries such as pandas, numpy, matplotlib and scikit-learn to perform our analysis.
 </body>
