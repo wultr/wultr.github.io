@@ -1,4 +1,3 @@
-# wultr.github.io
 <body>
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
@@ -24,3 +23,4 @@ As with any data analysis process, we start by obtaining the data from an open d
   <hr>
 <center><h1>Getting Started with the Data</h1></center>
 <body><p>
+We use Python3 and libraries such as pandas, numpy, matplotlib and scikit-learn to perform our analysis.
